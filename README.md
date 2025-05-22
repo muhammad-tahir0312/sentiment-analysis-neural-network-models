@@ -14,7 +14,7 @@ By applying supervised and unsupervised techniques to a balanced movie review da
 
 - **Muhammad Tahir** (21K-4503)  
 - **Insha Javed** (21K-3279)  
-- **Muhammad Samama** (21K-3205)
+- **Muhammad Samamah** (21K-3205)
 
 Supervised by **Sir Nouman Durrani**
 
